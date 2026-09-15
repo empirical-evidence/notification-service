@@ -1,6 +1,6 @@
 # notification-service
 
-Сервис управления ресторанами и меню Food Delivery Platform.
+Сервис уведомлений Food Delivery Platform.
 
 ## Стек
 
